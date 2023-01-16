@@ -74,9 +74,11 @@ The SVG layers are basically layered ontop of each other. You can enforce the di
 
 The layers are :
 
+```
 mapkey.svg - this one is the key for the map which identifies what each colour is etc.
 tbc.svg - this is the actual map itself
 textlabels.svg - this is the text labels that define what each area is on the map
+```
 
 Download and install all of these into your $WEBROOT
 
